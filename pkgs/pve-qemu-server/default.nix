@@ -15,7 +15,6 @@
   termreadline,
   socat,
   vncterm,
-  pve-edk2-firmware,
 }:
 
 let

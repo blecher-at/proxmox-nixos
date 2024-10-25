@@ -29,8 +29,8 @@
   wget,
   bash,
   zstd,
-  system-sendmail, rsync, busybox, cstream, lvm2
-  util-linux,
+  system-sendmail, rsync, busybox, cstream, lvm2,
+  util-linux
 }:
 
 let
